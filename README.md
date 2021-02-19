@@ -1,4 +1,4 @@
 Влад Амелин
 
 
-[1. Project](- https://vladamelin.github.io/home.html)
+[1. Project](- https://vladamelin.github.io/)
